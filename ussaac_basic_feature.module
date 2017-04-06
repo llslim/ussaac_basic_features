@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the USSAAC Basic Structure feature.
+ */
+
+include_once 'ussaac_basic_feature.features.inc';
